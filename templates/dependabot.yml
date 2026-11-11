@@ -1,0 +1,23 @@
+# Example only. Copy to .github/dependabot.yml in each repository and
+# keep only the ecosystems that repo uses. This file is not inherited
+# from the organization .github repository.
+version: 2
+updates:
+  - package-ecosystem: npm
+    directory: /
+    schedule:
+      interval: weekly
+  - package-ecosystem: github-actions
+    directory: /
+    schedule:
+      interval: weekly
+  - package-ecosystem: pip
+    directory: /
+    schedule:
+      interval: weekly
+    # Remove this block in repos that are not Python.
+  - package-ecosystem: docker
+    directory: /
+    schedule:
+      interval: weekly
+    # Remove this block in repos with no Dockerfile at the root.

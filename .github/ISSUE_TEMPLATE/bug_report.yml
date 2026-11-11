@@ -1,0 +1,39 @@
+name: Bug report
+description: Something is broken or behaves unexpectedly
+title: "[bug] "
+labels: []
+body:
+  - type: input
+    id: product
+    attributes:
+      label: Product or repository
+      placeholder: Typeglass, DistributeIQ, FrameSleuth, or this repo's name
+    validations:
+      required: true
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened
+      placeholder: What you saw, and what you expected.
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      placeholder: |
+        1.
+        2.
+        3.
+    validations:
+      required: true
+  - type: input
+    id: environment
+    attributes:
+      label: Environment
+      placeholder: Browser / OS / app version, if relevant
+  - type: textarea
+    id: notes
+    attributes:
+      label: Additional context
+      placeholder: Logs, screenshots, or links. Do not paste secrets.

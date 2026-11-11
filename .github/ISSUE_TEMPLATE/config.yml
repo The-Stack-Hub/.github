@@ -1,0 +1,14 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Typeglass
+    url: https://typeglass.com
+    about: Product questions for Typeglass
+  - name: DistributeIQ
+    url: https://distributeiq.com
+    about: Product questions for DistributeIQ (admin@distributeiq.com)
+  - name: FrameSleuth
+    url: https://framesleuth.com
+    about: Product questions for FrameSleuth (admin@framesleuth.com)
+  - name: Security report
+    url: https://github.com/The-Stack-Hub/.github/blob/main/SECURITY.md
+    about: Report a vulnerability privately — do not file a public issue

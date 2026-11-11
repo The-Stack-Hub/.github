@@ -1,0 +1,30 @@
+name: Feature request
+description: Propose a change or new capability
+title: "[feat] "
+labels: []
+body:
+  - type: input
+    id: product
+    attributes:
+      label: Product or repository
+      placeholder: Typeglass, DistributeIQ, FrameSleuth, or this repo's name
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem
+      placeholder: What is hard or missing today?
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposal
+      placeholder: What should change, and how would we know it worked?
+    validations:
+      required: true
+  - type: textarea
+    id: notes
+    attributes:
+      label: Additional context

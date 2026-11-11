@@ -1,0 +1,7 @@
+# Example only. Copy to .github/CODEOWNERS in each repository and
+# replace the team or usernames. This file is not inherited from the
+# organization .github repository.
+#
+# * @The-Stack-Hub/core
+# /apps/web/ @The-Stack-Hub/web
+# /.github/ @The-Stack-Hub/core

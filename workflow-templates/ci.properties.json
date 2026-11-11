@@ -1,0 +1,7 @@
+{
+  "name": "The Stack Hub CI",
+  "description": "Install dependencies and run tests on the default branch and on pull requests.",
+  "iconName": "octicon beaker",
+  "categories": ["JavaScript", "TypeScript", "continuous-integration"],
+  "filePatterns": ["package.json$"]
+}
