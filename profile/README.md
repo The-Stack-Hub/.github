@@ -22,4 +22,4 @@ If something in the data, the model, or the product is not working, [tell us](ht
 
 [arti.shinde@thestackhub.com](mailto:arti.shinde@thestackhub.com) · [Contact](https://www.thestackhub.com/contact) · [Partnerships](https://www.thestackhub.com/partnership) · Pune, India
 
-[Website](https://www.thestackhub.com/) · [LinkedIn](https://www.linkedin.com/company/the-stack-hubs/)
+[Website](https://www.thestackhub.com/) · [LinkedIn](https://www.linkedin.com/company/the-stack-hubs/) · [X](https://x.com/thestackhubs)
